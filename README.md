@@ -65,6 +65,12 @@ Here is the circuit diagram for connecting the ESP32 with the speaker or buzzer:
 
 ![ESP32 Circuit Diagram](https://a.top4top.io/p_3282v9r9x1.png)
 
+## Web Interface
+
+Here is a screenshot of the web interface you will interact with:
+
+![Web Interface](https://j.top4top.io/p_328246b3g1.jpg)
+
 ## Troubleshooting
 - **No Sound**: Ensure that the speaker or buzzer is correctly connected to the specified GPIO pin (default: pin 15).
 - **Page Not Loading**: Make sure you are connected to the correct Wi-Fi network (the one created by the ESP32).
