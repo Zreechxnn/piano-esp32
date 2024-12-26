@@ -1,5 +1,3 @@
-[![CLA assistant](https://cla-assistant.io/readme/badge/Zreechxnn/piano-esp32)](https://cla-assistant.io/Zreechxnn/piano-esp32)
-[![Build Status](https://github.com/Zreechxnn/piano-esp32/actions/workflows/build.yml/badge.svg)](https://github.com/Zreechxnn/piano-esp32/actions/)
 
 # piano-esp32
 
