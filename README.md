@@ -1,3 +1,9 @@
+[![CLA assistant](https://cla-assistant.io/readme/badge/Zreechxnn/piano-esp32)](https://cla-assistant.io/Zreechxnn/piano-esp32)
+[![Build Status](https://github.com/Zreechxnn/piano-esp32/actions/workflows/build.yml/badge.svg)](https://github.com/Zreechxnn/piano-esp32/actions/)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Zreechxnn_piano-esp32&metric=alert_status)](https://sonarcloud.io/dashboard?id=Zreechxnn_piano-esp32)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Zreechxnn_piano-esp32&metric=bugs)](https://sonarcloud.io/dashboard?id=Zreechxnn_piano-esp32)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=Zreechxnn_piano-esp32&metric=code_smells)](https://sonarcloud.io/dashboard?id=Zreechxnn_piano-esp32)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=Zreechxnn_piano-esp32&metric=coverage)](https://sonarcloud.io/dashboard?id=Zreechxnn_piano-esp32)
 # piano-esp32
 
 A web-based piano application powered by an ESP32 microcontroller. It allows users to play musical notes by pressing virtual keys on a web interface. The ESP32 acts as a Wi-Fi access point, serving the webpage and generating tones through a connected speaker. Supports basic musical notes and offers a simple interactive experience.
