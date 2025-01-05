@@ -82,3 +82,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Feel free to modify the code or improve the project as needed!
+
+<p align="center">©️ 2024 Rechan Dinata</p>
