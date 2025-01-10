@@ -67,6 +67,8 @@ Copy code
 - **Tone Generation**: The ESP32 generates musical tones for each key using the `tone()` function.
 - **Speaker Output**: The sound is played through a speaker or buzzer connected to pin 15 (you can change the pin if needed).
 
+---
+
 ## Circuit Diagram
 
 Here is the circuit diagram for connecting the ESP32 with the speaker or buzzer:
