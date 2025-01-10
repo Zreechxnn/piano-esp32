@@ -58,6 +58,8 @@ Copy code
 - The virtual keyboard on the webpage allows you to play seven musical notes (DO, RE, MI, FA, SOL, LA, SI).
 - When you click on a key, it will play the corresponding note through the connected speaker.
 
+---
+
 ## Code Explanation
 
 - **Wi-Fi Access Point**: The ESP32 creates its own Wi-Fi network, which users connect to.
