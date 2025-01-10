@@ -2,6 +2,8 @@
 
 A web-based piano application powered by an ESP32 microcontroller. It allows users to play musical notes by pressing virtual keys on a web interface. The ESP32 acts as a Wi-Fi access point, serving the webpage and generating tones through a connected speaker. Supports basic musical notes and offers a simple interactive experience.
 
+---
+
 ## Features
 - **Web Interface**: A simple piano keyboard accessible through a web browser.
 - **ESP32 Powered**: Uses an ESP32 as the central controller to serve the webpage and generate tones.
@@ -9,10 +11,14 @@ A web-based piano application powered by an ESP32 microcontroller. It allows use
 - **Basic Musical Notes**: Supports playing notes (DO, RE, MI, FA, SOL, LA, SI).
 - **Speaker Output**: Sound is generated on a speaker connected to the ESP32.
 
+---
+
 ## Requirements
 - **ESP32 board** (e.g., ESP32 DevKit v1)
 - **Speaker or Buzzer** connected to GPIO pin (default: pin 15)
 - **Arduino IDE** (with ESP32 support installed)
+
+---
 
 ## Installation
 
